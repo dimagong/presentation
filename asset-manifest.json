@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/presentation/static/css/main.2adbb80b.chunk.css",
+    "main.js": "/presentation/static/js/main.aa2605ca.chunk.js",
+    "main.js.map": "/presentation/static/js/main.aa2605ca.chunk.js.map",
+    "runtime-main.js": "/presentation/static/js/runtime-main.3bddf499.js",
+    "runtime-main.js.map": "/presentation/static/js/runtime-main.3bddf499.js.map",
+    "static/js/2.98392a7d.chunk.js": "/presentation/static/js/2.98392a7d.chunk.js",
+    "static/js/2.98392a7d.chunk.js.map": "/presentation/static/js/2.98392a7d.chunk.js.map",
+    "index.html": "/presentation/index.html",
+    "precache-manifest.98c80ce7e017a0489a9b1e84dbbe3b9d.js": "/presentation/precache-manifest.98c80ce7e017a0489a9b1e84dbbe3b9d.js",
+    "service-worker.js": "/presentation/service-worker.js",
+    "static/css/main.2adbb80b.chunk.css.map": "/presentation/static/css/main.2adbb80b.chunk.css.map",
+    "static/js/2.98392a7d.chunk.js.LICENSE": "/presentation/static/js/2.98392a7d.chunk.js.LICENSE",
+    "static/media/Calculator.jpg": "/presentation/static/media/Calculator.2ef96a9e.jpg",
+    "static/media/Drum.jpg": "/presentation/static/media/Drum.6de73d2b.jpg",
+    "static/media/Form.jpg": "/presentation/static/media/Form.3f9b7b56.jpg",
+    "static/media/Markdown.jpg": "/presentation/static/media/Markdown.82337b6b.jpg",
+    "static/media/Mgid.jpg": "/presentation/static/media/Mgid.4fa76524.jpg",
+    "static/media/clock-pomodoro.jpg": "/presentation/static/media/clock-pomodoro.42e3b03e.jpg",
+    "static/media/jsimage.png": "/presentation/static/media/jsimage.b54fc1c9.png",
+    "static/media/monsters.png": "/presentation/static/media/monsters.80f536d2.png",
+    "static/media/react.png": "/presentation/static/media/react.04557c1b.png",
+    "static/media/redux.png": "/presentation/static/media/redux.59c46753.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3bddf499.js",
+    "static/js/2.98392a7d.chunk.js",
+    "static/css/main.2adbb80b.chunk.css",
+    "static/js/main.aa2605ca.chunk.js"
+  ]
+}
